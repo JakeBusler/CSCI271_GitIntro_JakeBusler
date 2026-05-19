@@ -1,2 +1,4 @@
 # CSCI271-GitHub-Repo
-Repo for week 1 assignment demonstrating ability to navigate GitHub.
+**Author:** Jake Busler
+**Date Created:** May 18, 2026
+**Purpose:** Demonstrating knowledge of GitHub basics, including creating a repository and a README file.
